@@ -2,7 +2,7 @@
 Project awal belajar  SQL
 
 ## Sumber Data
-Data didapatkan dari [kaggle: superstore di Kaggle](https://www.kaggle.com/code/rawanma7moud/superstore)
+Data didapatkan dari [kaggle: superstore](https://www.kaggle.com/code/rawanma7moud/superstore)
 
 ## Data Processing
 STEP BY STEP:
